@@ -1,10 +1,10 @@
-## Welcome to my portfolio
+## Projects
 
-This is where I put descriptions.
+This is a variety of projects i've been working on. Insert Projects here.
 
-### Projects
+### Programs
 
-Insert Projects here.
+Insert Programs here.
 
 ```markdown
 Syntax highlighted code block
