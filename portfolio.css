@@ -15,7 +15,6 @@ body{
     background-size: cover;
 	height: 100px;
 	width: 100%;
-	
 }
 
 #header h1{
@@ -70,12 +69,9 @@ p{
     text-align: center;
 }
 
-header h1 {
-	color: white;
-}
 
 h1{
-	color: dodgerblue;
+	color: white;
 	padding-bottom: 25px;
     padding-top: 25px;
 }
