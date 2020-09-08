@@ -10,6 +10,11 @@ body{
 }
 
 #header{
+	background-image: url(backgroundd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 100px;
+	width: 100%;
 	
 }
 
@@ -56,10 +61,6 @@ body{
 
 #footer a:hover{
 	color: crimson;
-}
-
-header h1{
-	color: dodgerblue;
 }
 
 p{
