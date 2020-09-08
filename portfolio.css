@@ -10,14 +10,11 @@ body{
 }
 
 #header{
-	background-image: url(backgroundd.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-	height: 100px;
-	width: 100%;
+	
 }
 
 #header h1{
+	color: dodgerblue;
     text-align: center;
     padding-top: 25px;
 }
@@ -71,13 +68,12 @@ p{
 
 
 h1{
-	color: white;
+	color: dodgerblue;
 	padding-bottom: 25px;
     padding-top: 25px;
 }
 
 h2{
-	color: dodgerblue;
     text-align: center;
     text-decoration: underline;
 }
